@@ -1,0 +1,17 @@
+{
+  "package_name": "PegToken",
+  "version": "1.0.1",
+  "description": "Secure Smart Contract library for PegToken",
+  "authors": [
+    "Thomas Weston <support@peg-token.com>"
+  ],
+  "keywords": [
+    "solidity",
+    "ethereum",
+    "smart",
+    "contracts",
+    "security",
+    "pegtoken"
+  ],
+  "license": "MIT"
+}
